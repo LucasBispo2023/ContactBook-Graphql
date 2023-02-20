@@ -1,24 +1,3 @@
-# README
+Após assistir o primeiro projeto do curso de GRaphql resolvi refazer as aplicações utilizando o RoR.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Este é o primeiro projeto, de agenda de contatos, onde podemos adicionar, atualizar, deletar e mostrar todos os contatos do banco de dados.
